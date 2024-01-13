@@ -1,5 +1,5 @@
 
-# NewsSurf
+# NudeSurf
 
 Welcome to NewsSurf, an immersive Android application designed to keep you seamlessly connected to the latest news through The Guardian's free API. With its intuitive interface, customizable features, and carefully curated content, NewsSurf ensures an unparalleled news-reading experience.
 
