@@ -47,7 +47,7 @@ Tailor your news consumption to your preferences with a suite of customization o
 Clone the repository:
 
 ```bash
-  git clone https://github.com/yourusername/newssurf.git
+  git clone https://github.com/nishantxrana/NewsSurf-webview.git
 ```
     
 ## Usage
